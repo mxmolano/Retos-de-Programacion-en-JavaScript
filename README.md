@@ -132,5 +132,3 @@ Este proyecto está bajo la Licencia MIT
 ---
 
 ⭐ **Si este repositorio te ha sido útil, considera darle una estrella** ⭐
-
-```
